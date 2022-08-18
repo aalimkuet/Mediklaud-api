@@ -2,7 +2,6 @@
 using MediKlaudAPI.Infrastructure;
 using MediKlaudAPI.Interface;
 using MediKlaudAPI.Models;
-using Microsoft.Extensions.Configuration;
 using Oracle.ManagedDataAccess.Client;
 using System;
 using System.Collections.Generic;
